@@ -1,0 +1,7 @@
+{
+  "name": "save-finansys-ionic-vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
